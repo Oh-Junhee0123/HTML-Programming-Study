@@ -1,9 +1,8 @@
 # HTML-Programming-Study
+> https://oh-junhee0123.github.io/HTML-Programming-Study/Junhee.html
 <br>
 
-> https://oh-junhee0123.github.io/HTML-Programming-Study/Junhee.html
-
-### Web01
+## Web01
 ### 1_Contents
 <ul>
   <li>기본문법_태그.html</li>
